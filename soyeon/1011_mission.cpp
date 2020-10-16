@@ -13,7 +13,7 @@ int main() {
 	}
 	return 0;
 }
-int solve() {
+int solve1() {
 	int n, i;
 	scanf("%d", &n);
 
@@ -22,7 +22,7 @@ int solve() {
 
 	return 0;
 }
-int solve()
+int solve2()
 {
 	int x, y, quadrant;
 	scanf("%d", &x);
@@ -44,7 +44,7 @@ int solve()
 
 	return 0;
 }
-int solve()
+int solve3()
 {
 	int n, i, j;
 	scanf("%d", &n);
@@ -58,7 +58,7 @@ int solve()
 	}
 	return 0;
 }
-int solve()
+int solve4()
 {
 	int h, m;
 	scanf("%d %d", &h, &m);
